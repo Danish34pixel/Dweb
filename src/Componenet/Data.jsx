@@ -91,7 +91,8 @@ const Data = () => {
       <Card />
       <PortfolioBar />
       <Specialization />
-      <Last />
+      <Last/>
+      
 
     </div>
   );
